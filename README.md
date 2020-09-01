@@ -64,11 +64,3 @@
 
     修改数据库`systems`表的`vcode_login`字段为0, 然后参考第一个问题清空网站缓存
 
-
-
-## 商业版
-
-商业版在当前版本基础上增加了许多功能，是一款成熟完善的发卡平台系统，欢迎咨询。
-
-测试站 [http://demo.fakaxitong.com/](http://demo.fakaxitong.com/)
-
